@@ -3,21 +3,16 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SOC Home Lab Setup and Simulation Project</b>
-  - [Praciting SOC Home Lab Setup and Simulation Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting SOC Home Lab Setup and Simulation Project]
 
 <h2>📺 certifications</h2> 
 
 - [CompTIA Security +](https://www.credly.com/badges/2d6e785a-cb36-46fe-b20e-2c2bc2eed7c9/public_url)
 - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/1575df77-66ec-4bae-9d0e-4e2e4d9d7527/public_url)
-- [Google Cybersecurity Professional](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Google Cybersecurity Professional]
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
